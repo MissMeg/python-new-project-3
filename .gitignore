@@ -1,0 +1,6 @@
+# Workspace dictionary
+.vscode
+
+.DS_Store
+
+__pycache__
